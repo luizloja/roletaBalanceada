@@ -1,12 +1,14 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;	
+
 public class Molecula
 {
 	private String nome;
 
-	private int coeficienteEstequiometrico;
-
-	private Molecula molecula;
-
 	private AtomoQuantificado[] atomoQuantificado;
+	
+	private MoleculaCompoe[] moleculaCompoe;
 
 	public String moleculaPorExtenso()
 	{

@@ -1,5 +1,11 @@
-public class Atomo
-{
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Atomo{
+	
+	private int id;
+	
 	private String nome;
 
 	private int numeroAtomico;
@@ -7,8 +13,6 @@ public class Atomo
 	private float pesoAtomico;
 
 	private String sigla;
-
-	private int id;
 
 	private Grupo grupo;
 

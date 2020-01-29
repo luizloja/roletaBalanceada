@@ -1,6 +1,11 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;	
+
+
 public class MoleculaForma
 {
-	private String tipo;
+	private String tipo; //Reagente ou Produto
 
 	private int sequencia;
 
