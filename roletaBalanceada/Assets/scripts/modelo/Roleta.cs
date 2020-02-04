@@ -5,15 +5,9 @@ using UnityEngine;
 
 public class Roleta
 {
-	private Equacao equacao;
+	private Equacao equacaoEmResolucao;
 
-	private Jogador jogador;
-
-	private Jogador jogador;
-
-	private Equacao equacao;
-
-	private Jogador jogador;
+	private Jogador jogadorAtual;
 
 	/// Roda a roleta e verifica em qual equação parou
 	public Equacao rodarRoleta()
