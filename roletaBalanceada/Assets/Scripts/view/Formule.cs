@@ -6,13 +6,11 @@ using UnityEngine.UI;
 
 public class Formule : MonoBehaviour
 {
-    public Text formuleName;
     public Text formuleQuanity;
     
     // Start is called before the first frame update
     void Start()
     {
-        formuleName.text = "NA₂CO₂";
         formuleQuanity.text = "0";
     }
 

@@ -60,6 +60,7 @@
     <Compile Include="Assets\Scenes\BancoDeDados.cs" />
     <Compile Include="Assets\Scripts\controller\PontuacaoController.cs" />
     <Compile Include="Assets\Scripts\controller\PrincipalController.cs" />
+    <Compile Include="Assets\Scripts\controller\RegrasController.cs" />
     <Compile Include="Assets\Scripts\modelo\Atomo.cs" />
     <Compile Include="Assets\Scripts\modelo\AtomoQuantificado.cs" />
     <Compile Include="Assets\Scripts\modelo\Equacao.cs" />
@@ -70,7 +71,10 @@
     <Compile Include="Assets\Scripts\modelo\MoleculaForma.cs" />
     <Compile Include="Assets\Scripts\modelo\Roleta.cs" />
     <Compile Include="Assets\Scripts\view\Formule.cs" />
+    <Compile Include="Assets\Scripts\view\FormuleListAdapter.cs" />
     <Compile Include="Assets\Scripts\view\Roulette.cs" />
+    <Compile Include="Assets\Scripts\view\RulesListAdapter.cs" />
+    <Compile Include="Assets\Scripts\view\ScoreListAdapter.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Documentos/Unity/roletaBalanceada/roletaBalanceada/roletaBalanceada/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

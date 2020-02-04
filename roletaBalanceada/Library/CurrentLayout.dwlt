@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 809, y: 498}
   m_MaxSize: {x: 22004, y: 14048}
   vertical: 0
-  controlID: 32
+  controlID: 102
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 334, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 1
-  controlID: 33
+  controlID: 30
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 334, y: 274}
   m_MaxSize: {x: 14004, y: 10024}
   vertical: 0
-  controlID: 53
+  controlID: 116
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -410,9 +410,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -29.415249, y: 14.41691, z: 2877.7424}
+    m_Target: {x: -9.534963, y: -4.9831567, z: 895.1495}
     speed: 2
-    m_Value: {x: -29.415249, y: 14.41691, z: 2877.7424}
+    m_Value: {x: -9.534963, y: -4.9831567, z: 895.1495}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -444,15 +444,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: -1}
   m_Size:
-    m_Target: 196.5013
+    m_Target: 119.22492
     speed: 2
-    m_Value: 196.5013
+    m_Value: 119.22492
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.0840238, y: 0.39838827, z: -0.036678772, w: -0.9126234}
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -515,7 +515,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: b215ffff8e19ffff2e28ffffce2fffffa83dffff0268ffffa26fffff6e99ffffc6acffffd2acffff8ab8ffffa0b8ffff7ad7ffffdcfbffffaa5a0000d65a0000d2660000f87200006c740000a0740000
+      m_ExpandedIDs: 54a1ffff76baffff78baffff7edcffff90f5ffff9cf5ffff6af7ffff78f7ffffdcfbffff2629000054290000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -603,20 +603,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/controller
+    - Assets/Scripts/view
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/controller
+  - Assets/Scripts/view
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Documentos\Unity\roletaBalanceada\roletaBalanceada\roletaBalanceada
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 25}
-    m_SelectedIDs: 8a6c0000
-    m_LastClickedID: 27786
-    m_ExpandedIDs: 000000005c2600007e28000000ca9a3b
+    m_SelectedIDs: 46280000
+    m_LastClickedID: 10310
+    m_ExpandedIDs: 0000000078260000be28000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -644,7 +644,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005c2600007e280000
+    m_ExpandedIDs: 0000000078260000be280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -672,7 +672,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300006e300000000000002c36000040530000
+    m_ExpandedInstanceIDs: c62300006e3000002c3600004053000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
